@@ -1,0 +1,25 @@
+{
+  "name": "sanzo-color",
+  "version": "1.0.0",
+  "description": "Toolbox designed to return colors and color combinations inspired by the work of Sanzo Wada specifically",
+  "main": "sanzo-color.js",
+  "scripts": {
+    "test": "echo \"No test yet\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wassilyevich/sanzo-color.git"
+  },
+  "keywords": [
+    "color",
+    "combinations",
+    "design",
+    "harmony"
+  ],
+  "author": "wassilyevich",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wassilyevich/sanzo-color/issues"
+  },
+  "homepage": "https://github.com/wassilyevich/sanzo-color#readme"
+}
